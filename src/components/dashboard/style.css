@@ -126,7 +126,7 @@ body {
     margin-top: 20px;
     margin-left: 20px;
     border-radius: 20px;
-    box-shadow: 1px 1px 7px 3px black;
+    box-shadow: 1px 1px 7px 3px grey;
 }
 
 .second-content {
@@ -237,7 +237,7 @@ body {
 .image {
     display: flex;
     background-color: white;
-    width: 220px;
+    width: 150px;
     height: 150px;
     margin-top: 10px;
     margin-left: 10px;
@@ -248,7 +248,7 @@ body {
 .imagee {
     width: 70%;
     height: 70%;
-    margin-top: 21%;
+    margin-top: 20%;
 }
 
 .imageee {
@@ -288,7 +288,7 @@ body {
     position: absolute;
     border: 1px solid;
     text-align: center;
-    background-color: blue;
+    background-color: cornflowerblue;
     width: 90px;  
     height: 120px;
     margin-top: -40px;
@@ -310,6 +310,7 @@ body {
     border-top: 1px solid white;
     height: 150px;
     background-color: white;
+    padding-top: 20px;
 }
 
 .imej1 {
